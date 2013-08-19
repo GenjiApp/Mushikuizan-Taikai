@@ -1,0 +1,68 @@
+*[hidden] {
+    display: none;
+}
+
+p {
+    line-height: 2;
+    margin: 0;
+}
+
+p.right {
+    text-align: right;
+}
+
+p span.tcy {
+    -webkit-text-combine: horizontal;
+}
+
+em.bouten {
+    font-style: normal;
+    -webkit-text-emphasis-style: filled sesame;
+}
+
+hr {
+    height: 0.3em;
+    border: none;
+}
+
+div img {
+    display: block;
+    margin: 5% auto;
+    max-height: 80%;
+    max-width: 100%;
+}
+
+#bibliography {
+    list-style-type: none;
+}
+
+
+/* Styles for Navigation page. */
+body#nav nav ol li {
+    list-style-type: none;
+}
+
+
+/* Styles for Title page. */
+body#titlepage div {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: center;
+    margin: 30px;
+}
+body#titlepage div h1 {
+    margin: 0;
+    padding-top: 20px;
+    font-size: 2.5em;
+}
+
+body#titlepage div p {
+    padding-bottom: 20px;
+    font-size: 1.5em;
+}
+
+
+/* Styles for Colophon page. */
+body#colophon dl dt {
+    font-weight: bold;
+}

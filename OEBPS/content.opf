@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf"
+         version="3.0" unique-identifier="pubId">
+
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="pubId">urn:uuid:BC4CB9D1-6844-4681-8A43-D79654F5D197</dc:identifier>
+    <dc:title>虫喰い算大会</dc:title>
+    <dc:creator>佐野昌一</dc:creator>
+    <dc:contributor>田中哲郎</dc:contributor>
+    <dc:contributor>土屋隆</dc:contributor>
+    <dc:contributor>Genji</dc:contributor>
+    <dc:language>ja</dc:language>
+    <meta property="dcterms:modified">2013-08-19T04:50:23Z</meta>
+  </metadata>
+
+  <manifest>
+    <item media-type="text/css" id="css_style" href="style.css"/>
+    <item media-type="text/css" id="css_bodymatter" href="bodymatter.css"/>
+
+    <item media-type="application/xhtml+xml"
+          id="html_cover" href="cover.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_titlepage" href="titlepage.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_nav" properties="nav" href="nav.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_notice" href="notice.html"/>
+
+    <item media-type="application/xhtml+xml"
+          id="html_00" properties="svg" href="00.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_01" properties="svg" href="01.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_02" properties="svg" href="02.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_03" properties="svg" href="03.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_04" properties="svg" href="04.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_05" properties="svg" href="05.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_06" properties="svg" href="06.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_07" properties="svg" href="07.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_08" properties="svg" href="08.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_09" properties="svg" href="09.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_10" properties="svg" href="10.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_11" properties="svg" href="11.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_12" properties="svg" href="12.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_13" properties="svg" href="13.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_14" properties="svg" href="14.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_15" properties="svg" href="15.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_16" properties="svg" href="16.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_17" properties="svg" href="17.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_18" properties="svg" href="18.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_19" properties="svg" href="19.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_20" properties="svg" href="20.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_21" properties="svg" href="21.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_22" properties="svg" href="22.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_23" properties="svg" href="23.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_24" properties="svg" href="24.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_25" properties="svg" href="25.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_26" properties="svg" href="26.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_27" properties="svg" href="27.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_28" properties="svg" href="28.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_29" properties="svg" href="29.html"/>
+    <item media-type="application/xhtml+xml"
+          id="html_30" properties="svg" href="30.html"/>
+
+    <item media-type="application/xhtml+xml"
+          id="html_colophon" href="colophon.html"/>
+
+    <item media-type="image/jpeg"
+          id="jpg_cover" properties="cover-image" href="images/cover.jpg"/>
+
+    <item media-type="image/svg+xml" id="svg_00_01" href="images/00/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_02" href="images/00/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_03" href="images/00/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_04" href="images/00/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_05" href="images/00/05.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_06" href="images/00/06.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_07" href="images/00/07.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_08" href="images/00/08.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_09" href="images/00/09.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_10" href="images/00/10.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_11" href="images/00/11.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_12" href="images/00/12.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_13" href="images/00/13.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_14" href="images/00/14.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_15" href="images/00/15.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_16" href="images/00/16.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_17" href="images/00/17.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_18" href="images/00/18.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_19" href="images/00/19.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_20" href="images/00/20.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_21" href="images/00/21.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_22" href="images/00/22.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_23" href="images/00/23.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_24" href="images/00/24.svg"/>
+    <item media-type="image/svg+xml" id="svg_00_25" href="images/00/25.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_01_01" href="images/01/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_01_02" href="images/01/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_01_03" href="images/01/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_01_04" href="images/01/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_01_05" href="images/01/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_02_01" href="images/02/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_02_02" href="images/02/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_02_03" href="images/02/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_02_04" href="images/02/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_02_05" href="images/02/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_03_01" href="images/03/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_03_02" href="images/03/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_03_03" href="images/03/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_03_04" href="images/03/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_03_05" href="images/03/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_04_01" href="images/04/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_04_02" href="images/04/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_04_03" href="images/04/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_04_04" href="images/04/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_04_05" href="images/04/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_05_01" href="images/05/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_05_02" href="images/05/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_05_03" href="images/05/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_05_04" href="images/05/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_05_05" href="images/05/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_06_01" href="images/06/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_06_02" href="images/06/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_06_03" href="images/06/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_06_04" href="images/06/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_06_05" href="images/06/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_07_01" href="images/07/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_07_02" href="images/07/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_07_03" href="images/07/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_07_04" href="images/07/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_07_05" href="images/07/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_08_01" href="images/08/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_08_02" href="images/08/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_08_03" href="images/08/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_08_04" href="images/08/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_08_05" href="images/08/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_09_01" href="images/09/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_09_02" href="images/09/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_09_03" href="images/09/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_09_04" href="images/09/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_09_05" href="images/09/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_10_01" href="images/10/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_10_02" href="images/10/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_10_03" href="images/10/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_10_04" href="images/10/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_10_05" href="images/10/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_11_01" href="images/11/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_11_02" href="images/11/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_11_03" href="images/11/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_11_04" href="images/11/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_11_05" href="images/11/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_12_01" href="images/12/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_12_02" href="images/12/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_12_03" href="images/12/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_12_04" href="images/12/04.svg"/>
+    <item media-type="image/svg+xml" id="svg_12_05" href="images/12/05.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_13_01" href="images/13/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_13_02" href="images/13/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_13_03" href="images/13/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_13_04" href="images/13/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_14_01" href="images/14/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_14_02" href="images/14/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_14_03" href="images/14/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_14_04" href="images/14/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_15_01" href="images/15/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_15_02" href="images/15/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_15_03" href="images/15/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_15_04" href="images/15/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_16_01" href="images/16/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_16_02" href="images/16/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_16_03" href="images/16/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_16_04" href="images/16/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_17_01" href="images/17/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_17_02" href="images/17/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_17_03" href="images/17/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_17_04" href="images/17/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_18_01" href="images/18/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_18_02" href="images/18/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_18_03" href="images/18/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_18_04" href="images/18/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_19_01" href="images/19/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_19_02" href="images/19/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_19_03" href="images/19/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_19_04" href="images/19/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_20_01" href="images/20/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_20_02" href="images/20/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_20_03" href="images/20/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_20_04" href="images/20/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_21_01" href="images/21/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_21_02" href="images/21/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_21_03" href="images/21/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_21_04" href="images/21/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_22_01" href="images/22/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_22_02" href="images/22/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_22_03" href="images/22/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_22_04" href="images/22/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_23_01" href="images/23/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_23_02" href="images/23/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_23_03" href="images/23/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_23_04" href="images/23/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_24_01" href="images/24/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_24_02" href="images/24/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_24_03" href="images/24/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_24_04" href="images/24/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_25_01" href="images/25/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_25_02" href="images/25/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_25_03" href="images/25/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_25_04" href="images/25/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_26_01" href="images/26/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_26_02" href="images/26/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_26_03" href="images/26/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_26_04" href="images/26/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_27_01" href="images/27/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_27_02" href="images/27/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_27_03" href="images/27/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_27_04" href="images/27/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_28_01" href="images/28/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_28_02" href="images/28/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_28_03" href="images/28/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_28_04" href="images/28/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_29_01" href="images/29/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_29_02" href="images/29/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_29_03" href="images/29/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_29_04" href="images/29/04.svg"/>
+
+    <item media-type="image/svg+xml" id="svg_30_01" href="images/30/01.svg"/>
+    <item media-type="image/svg+xml" id="svg_30_02" href="images/30/02.svg"/>
+    <item media-type="image/svg+xml" id="svg_30_03" href="images/30/03.svg"/>
+    <item media-type="image/svg+xml" id="svg_30_04" href="images/30/04.svg"/>
+
+  </manifest>
+
+  <spine>
+    <itemref idref="html_cover"/>
+    <itemref idref="html_titlepage"/>
+    <itemref idref="html_nav"/>
+    <itemref idref="html_notice"/>
+    <itemref idref="html_00"/>
+    <itemref idref="html_01"/>
+    <itemref idref="html_02"/>
+    <itemref idref="html_03"/>
+    <itemref idref="html_04"/>
+    <itemref idref="html_05"/>
+    <itemref idref="html_06"/>
+    <itemref idref="html_07"/>
+    <itemref idref="html_08"/>
+    <itemref idref="html_09"/>
+    <itemref idref="html_10"/>
+    <itemref idref="html_11"/>
+    <itemref idref="html_12"/>
+    <itemref idref="html_13"/>
+    <itemref idref="html_14"/>
+    <itemref idref="html_15"/>
+    <itemref idref="html_16"/>
+    <itemref idref="html_17"/>
+    <itemref idref="html_18"/>
+    <itemref idref="html_19"/>
+    <itemref idref="html_20"/>
+    <itemref idref="html_21"/>
+    <itemref idref="html_22"/>
+    <itemref idref="html_23"/>
+    <itemref idref="html_24"/>
+    <itemref idref="html_25"/>
+    <itemref idref="html_26"/>
+    <itemref idref="html_27"/>
+    <itemref idref="html_28"/>
+    <itemref idref="html_29"/>
+    <itemref idref="html_30"/>
+    <itemref idref="html_colophon"/>
+  </spine>
+
+</package>

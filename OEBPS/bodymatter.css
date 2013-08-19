@@ -1,0 +1,19 @@
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-weight: normal;
+    page-break-before: always;
+    font-size: 1em;
+}
+
+h2 + div
+{
+    margin-bottom: 4em;
+}
+
+h2 + div + p {
+    margin-top: -4em;
+    margin-bottom: 4em;
+}
